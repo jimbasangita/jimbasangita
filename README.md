@@ -24,4 +24,4 @@ I'm a Master of Science in Information Systems student at the University of Wash
 - Building practical projects in secure AI systems
 
 ### Connect
-- LinkedIn: [https://www.linkedin.com/in/sangitajimba/]
+- LinkedIn: https://www.linkedin.com/in/sangitajimba/
